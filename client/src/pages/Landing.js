@@ -7,8 +7,6 @@ import Signup from '../components/Signup';
 import { useEffect, useState } from 'react';
 
 export default function Landing() {
-    // const [logging, setLogging] = useState(false);
-    // useEffect(() => setLogging(false), []);
     return (
         <>
             <AppBar position="static">
